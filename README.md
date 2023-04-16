@@ -1,17 +1,11 @@
 # ![Z-Media](https://imgur.com/AyZd2oP.png)
 
 # Z-Media
-<table>
-<tr>
-<td>
-Clon de YouTube con React JS | TailwindCSS | RapidAPI
-</td>
-</tr>
-</table>
 
+Clon de YouTube con React JS | TailwindCSS | RapidAPI
 
 ## Demo
-Aquí una pueden visitar el sitio web desplegado en Netlify: https://z-media.netlify.app/
+Aquí pueden visitar el sitio web desplegado en Netlify: https://z-media.netlify.app
 
 ## Creado con
 
